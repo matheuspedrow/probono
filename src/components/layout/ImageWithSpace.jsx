@@ -4,6 +4,7 @@ const WIDTH_BREAK = '600px'
 
 const StyledFlex = styled.div`
 display: flex;
+
 `
 
 const StyledImage = styled.div`
@@ -21,7 +22,7 @@ const StyledImage = styled.div`
 
 const StyledContainer = styled.div `
 background-color: #8f86ff;
-padding: 30px 50px;
+padding: 0px 30px;
 
 @media (min-width: ${WIDTH_BREAK}) {
   min-width: ${WIDTH_BREAK};

@@ -15,7 +15,7 @@ position: relative;
 overflow: hidden;
 cursor: pointer;
 z-index: 1;
-font-weight: 300;
+font-weight: bold;
 font-size: 15px;
 font-size: bold;
 font-family: 'Roboto', 'Segoe UI', sans-serif;
