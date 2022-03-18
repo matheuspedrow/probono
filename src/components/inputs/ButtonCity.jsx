@@ -1,9 +1,9 @@
 import styled from 'styled-components'
 
-const ButtonCity3 = styled.button`
+const ButtonCity = styled.button`
 width: 150px;
 height: 60px;
-margin-top: 0px;
+margin-top: 00px;
 background-color: #3A3A3A;
 border: .5px solid;
 font-size: 14px;
@@ -20,4 +20,4 @@ transition: 0.6s;
 
 
 
-export default ButtonCity3
+export default ButtonCity

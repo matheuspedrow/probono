@@ -5,9 +5,7 @@ import H1 from '../src/components/typography/H1'
 import H4 from '../src/components/typography/H4'
 import H2 from '../src/components/typography/H2'
 import Button from '../src/components/inputs/Button'
-import ButtonCity1 from '../src/components/inputs/ButtonCity1'
-import ButtonCity2 from '../src/components/inputs/ButtonCity2'
-import ButtonCity3 from '../src/components/inputs/ButtonCity3'
+import ButtonCity from '../src/components/inputs/ButtonCity'
 import Input from '../src/components/inputs/Input'
 
 
@@ -36,9 +34,9 @@ function HomePage () {
         <Form>
           <Input placeholder="Digite uma cidade" type="city" />
           <Button>Pesquisar cidade</Button>
-          <ButtonCity1>CIDADE 01</ButtonCity1>
-          <ButtonCity2>CIDADE 02</ButtonCity2>
-          <ButtonCity3>CIDADE 03</ButtonCity3>
+          <ButtonCity>CIDADE 01</ButtonCity>
+          <ButtonCity>CIDADE 02</ButtonCity>
+          <ButtonCity>CIDADE 03</ButtonCity>
         </Form>
       </CityContainer>
     </ImageWithSpace>
