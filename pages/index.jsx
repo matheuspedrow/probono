@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-
 import ImageWithSpace from '../src/components/layout/ImageWithSpace'
 import H1 from '../src/components/typography/H1'
 import H4 from '../src/components/typography/H4'
@@ -7,11 +6,11 @@ import H2 from '../src/components/typography/H2'
 import Button from '../src/components/inputs/Button'
 import ButtonCity from '../src/components/inputs/ButtonCity'
 import Input from '../src/components/inputs/Input'
+import localization from '../pages/localization'
 
 
 const CityContainer = styled.div`
   margin-top: 60px;
-
 `
 
 const Form = styled.form`
@@ -19,7 +18,6 @@ const Form = styled.form`
   flex-direction: column;
   margin: 20px 0;
   gap: 20px;
-
 `
 
 
