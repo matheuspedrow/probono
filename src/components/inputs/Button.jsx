@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-import localization from '../../../pages/localization'
 
 const Button = styled.button`
 width: 195px;
