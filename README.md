@@ -7,6 +7,8 @@ Projeto criado para verificar previsões meteorológica, retornando atividades a
 Para abrir o projeto utilize npm install (para instalar as dependencias)
 Em seguida executo o npm run dev para abrir em localhost.
 
+Projeto feito em React, utilizando-se de styled components e babel.
+
 
 ## OBS
 
